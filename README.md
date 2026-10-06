@@ -13,6 +13,10 @@
 
 ---
 
+> 🔗 **Projeto Full-Stack:** Este repositório é a **API Backend & Web Crawler** do ecossistema. Ele foi desenvolvido para alimentar a aplicação cliente [**Folhear (Front-End & Estante 3D)**](https://github.com/GustavoRincha/Folhear).
+
+---
+
 ## 🎯 Sobre o Projeto
 
 O **APIFolhear** é o serviço backend responsável por consultar, extrair e ranquear preços de livros em tempo real nas principais plataformas brasileiras:
