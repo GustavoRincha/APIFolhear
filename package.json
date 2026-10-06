@@ -1,0 +1,31 @@
+{
+  "name": "api-folhear",
+  "version": "1.0.0",
+  "description": "Backend crawler e comparador de preços de livros para o Folhear",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [
+    "crawler",
+    "scraper",
+    "livros",
+    "folhear",
+    "precos"
+  ],
+  "author": "Gustavo Rincha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GustavoRincha/APIFolhear.git"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
